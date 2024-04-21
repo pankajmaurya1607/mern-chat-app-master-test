@@ -1,6 +1,6 @@
 # Real-Time Chat App
 
-![Demo App](https://mern-chat-app-master-prod.onrender.com)
+![Website Link 🚀](https://mern-chat-app-master-prod.onrender.com)
 
 ## Description
 
