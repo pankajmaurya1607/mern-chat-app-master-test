@@ -1,19 +1,54 @@
-# MERN Stack Project: Build and Deploy a Real Time Chat App | JWT, Socket.io
+# Real-Time Chat App
 
-![Demo App](https://i.ibb.co/gFSMzKN/1.png)
+[Website Link 🚀](https://mern-chat-app-master-prod.onrender.com)
 
-[Video Tutorial on Youtube](https://youtu.be/HwCqsOis894)
+## Description
 
-Some Features:
+The Real-Time Chat App is a web application that allows users to engage in real-time text-based conversations. Built with Node.js, Express.js, MongoDB, and Socket.IO, this app offers a seamless chat experience with features like user authentication, encrypted messaging, and real-time updates.
 
--   🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
--   🎃 Authentication && Authorization with JWT
--   👾 Real-time messaging with Socket.io
--   🚀 Online user status (Socket.io and React Context)
--   👌 Global state management with Zustand
--   🐞 Error handling both on the server and on the client
--   ⭐ At the end Deployment like a pro for FREE!
--   ⏳ And much more!
+## Getting Started
+
+To get started with the Real-Time Chat App, follow these steps:
+
+1. Clone the repository to your local machine.
+2. Install the necessary dependencies using `npm install`.
+3. Start the development server using `npm run server`.
+4. Access the application by navigating to `http://localhost:3000` in your web browser.
+
+## Features
+
+- **Real-Time Messaging:** Engage in real-time text-based conversations with other users.
+- **User Authentication:** Secure user authentication system ensures privacy and data integrity.
+- **Customizable Profiles:** Customize your profile with a username and avatar.
+- **Online Status:** See who's online and available for chat in real-time.
+- **Responsive Design:** Enjoy a seamless chat experience across devices with a responsive design optimized for desktop.
+
+## Technologies Used
+
+The Real-Time Chat App is built using the following technologies:
+
+### Frontend
+- **React.js**
+- **HTML**
+- **CSS**
+- **JavaScript**
+
+### Backend
+- **Node.js**
+- **Express.js**
+
+### Database
+- **MongoDB**
+
+### Real-Time Communication
+- **Socket.IO**
+
+### Authentication
+- **bcrypt.js**
+- **cookie-parser**
+- **cors**
+- **dotenv**
+- **jsonwebtoken**
 
 ### Setup .env file
 
